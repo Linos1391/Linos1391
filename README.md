@@ -10,6 +10,3 @@
 - Hi, the name is Linos and I am a Vietnamese programmer (currently live in the USA).
 - I love AI, especially Text generation and Computer vision. Hope that I can build an app for them later.
 - My favorite language is Python, used to learn C++ but it got rusty by time.
-
-# My project:
-- [ChessAI](https://github.com/Linos1391/ChessAI) (This is a sub-window GUI for Stockfish. Currently in development.)
