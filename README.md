@@ -14,7 +14,5 @@
 
 # My stats:
 
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=Linos1391&layout=compact&theme=vision-friendly-dark" width = "45%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Linos1391&layout=compact&theme=vision-friendly-dark" width = "45%">
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=Linos1391&layout=compact&theme=vision-friendly-dark" width = "370">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Linos1391&layout=compact&theme=vision-friendly-dark" width = "370">
