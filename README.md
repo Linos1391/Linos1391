@@ -15,5 +15,4 @@
 # My stats:
 
 <img src="https://github-readme-stats.vercel.app/api?username=Linos1391&layout=compact&theme=vision-friendly-dark" width = "350">
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Linos1391&layout=compact&theme=vision-friendly-dark" width = "350">
