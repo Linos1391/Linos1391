@@ -7,14 +7,13 @@
 # Languages and Tools:
 
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="100" height="100"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original.svg" alt="Godot" width="100" height="100"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" alt="Go" width="100" height="100"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="100" height="100"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original.svg" width="100" height="100"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" width="100" height="100"/>
 </div>
 
 # My stats:
 
-[![][toplang-data]][toplang-url]
+<img src="https://github-readme-stats.vercel.app/api?username=Linos1391&layout=compact&theme=vision-friendly-dark" width = "400">
 
-[toplang-data]: https://github-readme-stats.vercel.app/api/top-langs/?username=Linos1391&layout=compact&theme=vision-friendly-dark
-[toplang-url]: https://github.com/anuraghazra/github-readme-stats
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Linos1391&layout=compact&theme=vision-friendly-dark" width = "400">
