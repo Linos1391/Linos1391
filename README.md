@@ -7,9 +7,9 @@
 # Languages and Tools:
 
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="10%"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original.svg" width="10%"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" width="10%"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" width="10%"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original-wordmark.svg" width="10%"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" width="10%"/>
 </div>
 
 # My stats:
