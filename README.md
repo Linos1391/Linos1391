@@ -1,3 +1,5 @@
+[![](https://visitcount.itsvg.in/api?id=Linos1391&label=Profile%20Views&color=0&icon=6&pretty=true)](https://visitcount.itsvg.in)
+
 # About me:
 - Hi, the name is Linos and I am a Vietnamese programmer (currently live in the USA).
 - I love AI, especially Text generation and Computer vision. Hope that I can build an app for them in the future.
