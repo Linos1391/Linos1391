@@ -24,6 +24,8 @@
 <a href="https://hosted.weblate.org/engage/invokeai/-/vi/">
 <img src="https://hosted.weblate.org/widget/invokeai/-/vi/287x66-grey.png" alt="Translation status"></a>
 
+<br>
+<br>
 
 # 📊 My stats:
 
