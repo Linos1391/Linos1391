@@ -22,9 +22,10 @@
 ### 📝 Translation:
 - Vietnamese Translator for [InvokeAI](https://github.com/invoke-ai/InvokeAI).
 <a href="https://hosted.weblate.org/engage/invokeai/-/vi/">
-<img src="https://hosted.weblate.org/widget/invokeai/-/vi/287x66-grey.png" alt="Translation status" />
+<img src="https://hosted.weblate.org/widget/invokeai/-/vi/287x66-grey.png" alt="Translation status"></a>
 
-# My stats:
+
+# 📊 My stats:
 
 <img src="https://github-readme-stats.vercel.app/api?username=Linos1391&layout=compact&theme=vision-friendly-dark" width = "370">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Linos1391&layout=compact&theme=vision-friendly-dark" width = "370">
