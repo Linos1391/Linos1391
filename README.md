@@ -3,6 +3,7 @@
 # 👋 About me:
 - Hi, the name is Linos (not real name btw).
 - I am a Vietnamese programmer who currently live in the USA.
+- Contact by: linos.coding@gmail.com
 
 ### 🌟 Interest Field:
 - I love AI, especially Text generation and Computer vision. Hope that I can build an app for them in the future.
