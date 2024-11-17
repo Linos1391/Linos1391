@@ -1,5 +1,3 @@
-[![](https://visitcount.itsvg.in/api?id=Linos1391&label=Profile%20Views&color=0&icon=6&pretty=true)](https://visitcount.itsvg.in)
-
 # 👋 About me:
 - Hi, the name is Linos (not real name btw).
 - I am a Vietnamese programmer who currently live in the USA.
