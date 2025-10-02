@@ -4,8 +4,8 @@
 - Contact by: linos.coding@gmail.com
 
 ### 🌟 Interest Field:
-- I love AI, especially Text generation and Computer vision. Hope that I can build an app for them in the future.
-- I will recreate Jarvis.
+- I love AI, especially Text generation and Computer vision. Hope that I can build an app for them in the future. (I will recreate Jarvis)
+- Create a device that connects humans.
 
 ### 💻 Languages and Tools:
 <div>
@@ -22,6 +22,9 @@
 - Vietnamese Translator for [InvokeAI](https://github.com/invoke-ai/InvokeAI).
 <a href="https://hosted.weblate.org/engage/invokeai/-/vi/">
 <img src="https://hosted.weblate.org/widget/invokeai/-/vi/287x66-grey.png" alt="Translation status"></a>
+
+### 🎮 Games: (Itch.io)
+- [Pocket Nature](https://linos1391.itch.io/pocket-nature)
 
 <br>
 <br>
