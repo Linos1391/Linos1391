@@ -16,7 +16,7 @@
 </div>
 
 - My favorite language is Python, used to learn C++ but it got rusty by time.
-- I know a bit of HTML and CSS, but suck at Javascript. So forget frontend, I hate them.
+- I know a bit of HTML and CSS, but suck at Javascript.
 
 ### 📝 Translation:
 - Vietnamese Translator for [InvokeAI](https://github.com/invoke-ai/InvokeAI).
