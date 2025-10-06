@@ -18,11 +18,6 @@
 - My favorite language is Python, used to learn C++ but it got rusty by time.
 - I know a bit of HTML and CSS, but suck at Javascript.
 
-### 📝 Translation:
-- Vietnamese Translator for [InvokeAI](https://github.com/invoke-ai/InvokeAI).
-<a href="https://hosted.weblate.org/engage/invokeai/-/vi/">
-<img src="https://hosted.weblate.org/widget/invokeai/-/vi/287x66-grey.png" alt="Translation status"></a>
-
 ### 🎮 Games: (Itch.io)
 - [Pocket Nature](https://linos1391.itch.io/pocket-nature)
 
