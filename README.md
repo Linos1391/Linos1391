@@ -4,7 +4,7 @@
 - Contact by: linos.coding@gmail.com
 
 ### 🌟 Interest Field:
-- I love AI, especially Text generation and Computer vision. Hope that I can build an app for them in the future. (I will recreate Jarvis)
+- I love AI, especially Text generation and Computer vision... And sometimes I feel AGI is going too far.
 - Create a device that connects humans.
 
 ### 💻 Languages and Tools:
