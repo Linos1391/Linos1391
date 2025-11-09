@@ -21,6 +21,10 @@
 ### 🎮 Games: (Itch.io)
 - [Pocket Nature](https://linos1391.itch.io/pocket-nature)
 
+### 🤖 Automate Projects:
+- [Audio Emergency](https://llamalab.com/automate/community/flows/51746)
+- [Morse Communication with Bixby Assistant](https://llamalab.com/automate/community/flows/51747)
+
 <br>
 <br>
 
