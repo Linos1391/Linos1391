@@ -10,9 +10,11 @@
 ### 💻 Languages and Tools:
 <div>
   <a href="https://www.python.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="35px"></a>
+  <a href="https://rust-lang.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" width="35px"></a>
   <a href="https://godotengine.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original.svg" width="35px"></a>
   <a href="https://www.w3schools.com/html/"><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="35px"></a>
   <a href="https://www.w3schools.com/Css/"><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="35px"></a>
+  <a href="https://www.w3schools.com/js/"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="35px"></a>
 </div>
 
 - My favorite language is Python, used to learn C++ but it got rusty by time.
