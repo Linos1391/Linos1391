@@ -20,8 +20,10 @@
 - My favorite language is Python, used to learn C++ but it got rusty by time.
 - I know a bit of HTML and CSS, but suck at Javascript.
 
+<!--
 ### 🎮 Games: (Itch.io)
 - [Pocket Nature](https://linos1391.itch.io/pocket-nature)
+-->
 
 ### 🤖 Automate Projects:
 - [Audio Emergency](https://llamalab.com/automate/community/flows/51746)
